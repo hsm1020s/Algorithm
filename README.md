@@ -1,2 +1,7 @@
-# Algorithm
-This is a auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+프로그래머스 
+
+파이썬3 레벨3까지 492문제
+자바  레벨3까지 500문제
+Oracle SQL 레벨5까지 76문제
+
+준비중입니다.
